@@ -1,6 +1,7 @@
 # Calculadora Web
 
 Uma calculadora desenvolvida com HTML, CSS e JavaScript puro com foco em prática de lógica de programação, manipulação de DOM e controle de estados.
+
 ---
 
 ## Funcionalidades
@@ -58,5 +59,5 @@ O projeto foi desenvolvido com o objetivo de praticar:
 
 ---
 
-##Autor
+## Autor
 Desenvolvido por Milene Araujo.
