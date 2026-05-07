@@ -17,22 +17,17 @@ A ideia não é apenas “juntar códigos”, mas construir uma evolução técn
 ---
 
 ## Tecnologias que pretendo utilizar
-HTML
-CSS
-JavaScript
-Node.js
-Node-RED
-MySQL
-Git
-GitHub
-Regras pessoais para este repositório
-Evitar abandonar projetos no meio
-Priorizar projetos pequenos antes dos grandes
-Documentar o que aprendi
-Refatorar projetos antigos quando meu nível melhorar
-Manter consistência em vez de buscar perfeição
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Node-RED
+- MySQL
+- Git
+- GitHub
 
 ---
+
 ##  Estrutura
 
 Cada projeto ficará em sua própria pasta:
