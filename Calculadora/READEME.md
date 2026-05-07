@@ -1,4 +1,5 @@
 # Calculadora Web
+
 Uma calculadora desenvolvida com HTML, CSS e JavaScript puro com foco em prática de lógica de programação, manipulação de DOM e controle de estados.
 ---
 
