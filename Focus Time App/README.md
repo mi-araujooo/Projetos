@@ -13,13 +13,13 @@ O projeto foi criado com o objetivo de praticar manipulação do DOM, eventos, t
 ## Preview
 
 ### Tela Inicial
-<img width="1153" height="672" alt="image" src="https://github.com/user-attachments/assets/2ec788cc-c24c-43a2-b557-5ffdf44f2b08" />
+<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/2ec788cc-c24c-43a2-b557-5ffdf44f2b08" />
 
 ### Cronômetro
-<img width="1153" height="672" alt="image" src="https://github.com/user-attachments/assets/517e4c40-9113-473c-9a17-bff89743f749" />
+<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/517e4c40-9113-473c-9a17-bff89743f749" />
 
 ### Pomodoro
-<img width="1153" height="672" alt="image" src="https://github.com/user-attachments/assets/0ab2a4f1-43cb-40c6-a22c-38db340881b3" />
+<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/0ab2a4f1-43cb-40c6-a22c-38db340881b3" />
 
 ---
 
@@ -55,7 +55,7 @@ O projeto foi criado com o objetivo de praticar manipulação do DOM, eventos, t
 
 ---
 
-## Conceitos Praticados 📚
+## Conceitos Praticados
 
 Durante o desenvolvimento foram trabalhados conceitos como:
 
