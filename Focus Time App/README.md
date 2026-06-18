@@ -15,15 +15,12 @@ O projeto foi criado com o objetivo de praticar manipulação do DOM, eventos, t
 Adicione aqui algumas capturas de tela do projeto.
 
 ### Tela Inicial
-![Tela Inicial](./img/relogio.png)
 <img width="1153" height="672" alt="image" src="https://github.com/user-attachments/assets/2ec788cc-c24c-43a2-b557-5ffdf44f2b08" />
 
 ### Cronômetro
-![Cronômetro](./img/cronometro.png)
 <img width="1153" height="672" alt="image" src="https://github.com/user-attachments/assets/517e4c40-9113-473c-9a17-bff89743f749" />
 
 ### Pomodoro
-![Pomodoro](./img/pomodoro.png)
 <img width="1153" height="672" alt="image" src="https://github.com/user-attachments/assets/0ab2a4f1-43cb-40c6-a22c-38db340881b3" />
 
 ---
@@ -73,9 +70,3 @@ Durante o desenvolvimento foram trabalhados conceitos como:
 - Navegação entre páginas
 - Organização de interface com Flexbox e Grid
 - Responsividade básica
-
----
-
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins de estudo e prática.
