@@ -10,9 +10,7 @@ O projeto foi criado com o objetivo de praticar manipulação do DOM, eventos, t
 
 ---
 
-## 📸 Preview
-
-Adicione aqui algumas capturas de tela do projeto.
+## Preview
 
 ### Tela Inicial
 <img width="1153" height="672" alt="image" src="https://github.com/user-attachments/assets/2ec788cc-c24c-43a2-b557-5ffdf44f2b08" />
@@ -25,20 +23,20 @@ Adicione aqui algumas capturas de tela do projeto.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-### 🕒 Relógio Digital
+### Relógio Digital
 - Exibição da hora em tempo real
 - Exibição da data atual
 - Atualização automática dos valores
 
-### ⏱️ Cronômetro
+### Cronômetro
 - Iniciar contagem
 - Pausar contagem
 - Reiniciar cronômetro
 - Navegação para outras páginas da aplicação
 
-### 🍅 Pomodoro
+### Pomodoro
 - Modo foco
 - Pausa curta
 - Pausa longa
@@ -70,3 +68,8 @@ Durante o desenvolvimento foram trabalhados conceitos como:
 - Navegação entre páginas
 - Organização de interface com Flexbox e Grid
 - Responsividade básica
+  
+---
+
+## Autor
+Desenvolvido por Milene Araujo.
