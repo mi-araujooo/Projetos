@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200..800&display=swap');
+
+
+body {
+    background: radial-gradient(#01162c, #0f0f0f);
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    width: 450px;
+    height: max-content;
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-family: "Saira", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    margin-bottom: 0px;
+    color: #ffffff;
+}
+
+.relogio {
+    display: grid;
+    margin-bottom: 20px;
+    border: 3px solid #ffffff;
+    background: linear-gradient(321deg, black, transparent);
+    border-radius: 5px;
+    padding: 11px 37px;
+    gap: 11px;
+    grid-auto-flow: column;
+    justify-content: center;
+    width: 360px;
+}
+
+p {
+    color: white;
+    display: flex;
+    font-size: 80px;
+    font-family: 'Saira';
+    font-optical-sizing: auto;
+    font-feature-settings: "tnum";
+    font-weight: 900;
+    font-style: normal;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.meio {
+    color: #6ce5e8;
+    display: flex;
+    font-size: 104px;
+    font-family: "Gemunu Libre", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    margin-bottom: 17px;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    height: 35px;
+    padding: 5px 10px;
+    font-family: 'Saira';
+    background-color: transparent;
+    border: 3px solid #6ce5e8;
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #3ac2e094;
+    box-shadow: 0 0 12px -2px #52d2d8c9;
+}
+
+.btn-iniciar, .btn-zerar {
+    width: 100px;
+    height: 37px;
+    font-size: medium;
+    margin-bottom: 5px;
+}
+
+.btns {
+    width: 270px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2px 10px;
+} 
