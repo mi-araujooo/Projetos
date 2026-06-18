@@ -46,7 +46,7 @@ O projeto foi criado com o objetivo de praticar manipulação do DOM, eventos, t
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -55,7 +55,7 @@ O projeto foi criado com o objetivo de praticar manipulação do DOM, eventos, t
 
 ---
 
-## 📚 Conceitos Praticados
+## Conceitos Praticados 📚
 
 Durante o desenvolvimento foram trabalhados conceitos como:
 
